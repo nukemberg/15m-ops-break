@@ -9,6 +9,7 @@ The videos are targeted at junior to mid-level operations and software engineer 
 - Basic networking and O/S concpects
 - Practical experience in Linux based production systems
 - Code reading (Python mostly)
+
 However, if you hear some phrase you are unfamiliar with, that doesn't mean you're in over your head! The videos intentionally mention lots of concept in order to "connect the dots" and encourage further exploration.
 
 ## How to use this project
