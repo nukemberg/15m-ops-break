@@ -13,7 +13,10 @@ The videos are targeted at junior to mid-level operations and software engineer 
 However, if you hear some phrase you are unfamiliar with, that doesn't mean you're in over your head! The videos intentionally mention lots of concept in order to "connect the dots" and encourage further exploration.
 
 ## How to use this project
+1. Go over the [Getting started](getting-started.md) guide
 1. Watch a video
 1. Practice by repeating what is done in the video yourself
 1. Make a list of unfamiliar concepts
 1. Explore further yourself
+
+[The playlist](https://youtu.be/rGbMtqpx18M) on YouTube.
