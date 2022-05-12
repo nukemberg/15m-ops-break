@@ -19,4 +19,4 @@ However, if you hear some phrase you are unfamiliar with, that doesn't mean you'
 1. Make a list of unfamiliar concepts
 1. Explore further yourself
 
-[The playlist](https://youtu.be/rGbMtqpx18M) on YouTube.
+[The playlist](https://youtube.com/playlist?list=PLohvP8p9jfOdyCoiJNjuc3iMz9ee9n_eF) on YouTube.
